@@ -7,6 +7,7 @@ public class EjemploGit {
 		String User ="Valentin";
 		System.out.println(User);
 		
+		
 		System.out.println("Estoy en la rama 2");
 	}
 
